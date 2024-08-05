@@ -17,5 +17,5 @@ permalink: "execcommittee.html"
 ### Program Chairs
 ![Pranava](https://pmadhyastha.github.io/images/pranava.jpg)
 
-**Pranava Madhyastha**
+**Pranava Madhyastha** 
 [City, University of London](https://www.turing.ac.uk/people/pranava-madhyastha)
