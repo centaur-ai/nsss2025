@@ -15,6 +15,7 @@ permalink: "execcommittee.html"
 
 
 ### Program Chairs
-<img src="https://kbrl.github.io/img/asim.jpg" alt="Asim" width="250"/> |   <img src="https://pmadhyastha.github.io/images/pranava.jpg" alt="Pranava" width="250" height="250"/> | 
-:---------------:|:---------------:
-Asim Munawar<br>[IBM Research](https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-asim) | Pranava Madhyastha<br>[City, University of London](https://pmadhyastha.github.io/)<br>[The Alan Turing Institute](https://www.turing.ac.uk/people/pranava-madhyastha) 
+![Pranava](https://pmadhyastha.github.io/images/pranava.jpg)
+
+**Pranava Madhyastha**
+[City, University of London](https://www.turing.ac.uk/people/pranava-madhyastha)
