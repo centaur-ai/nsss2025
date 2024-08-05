@@ -1,6 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# <img src="https://neurosymbolic.github.io/nsss2023/data/poster-new.png" alt="Poster"/>
+# **Access Recordings of the Event: Follow Instructions at** [Event Playback](https://neurosymbolic.github.io/nsss2023/playback.html)
+
 
 layout: page
 title: Home
