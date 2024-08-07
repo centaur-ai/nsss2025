@@ -8,9 +8,16 @@ permalink: "speakers.html"
 ---
 
 
-Confirmed speakers this year will include:
+Confirmed speakers/topics this year include:
+- Francois Chollet, Google
 - Paul Smolensky, Microsoft Research
 - Alvaro Velasquez, DARPA
 - Alessandra Russo, Imperial College London
-- The next generation of AI startups, focusing on neuro-symbolic AI
-- with more to be announced soon.
+- Guy Van den Broeck, UCLA
+- Peiyang Song, Caltech
+- Crash-course tutorials from top experts on logic, neural networks, knowledge graphs, and AlphaProof-style neural-guided theorem proving
+- Emerging industry neuro-symbolic AI tools from the next generation of AI startups
+- Interactive discussions that everyone can join, where we will be planning new projects
+
+...with much more to be announced.
+ 
