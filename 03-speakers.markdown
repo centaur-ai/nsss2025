@@ -10,6 +10,7 @@ permalink: "speakers.html"
 
 Confirmed speakers/topics this year include:
 - Judea Pearl, UCLA (Turing Award winner)
+- Andreas Vlachos, Cambridge
 - Francesca Toni, Imperial College London
 - Francois Chollet, Google
 - Paul Smolensky, Microsoft Research
