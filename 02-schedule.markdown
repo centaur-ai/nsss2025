@@ -30,7 +30,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 |               | Tutorial: Argumentation                             | Francesca Toni, Imperial College London |
 |               | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University
 | 13:00 - 13:30 | Talk: Assured Systems, and Highlights from NeuS '23 | Alvaro Velasquez, DARPA |
-| 14:00 - 15:00	| Tutorial: Neuro-Symbolic Theorem Proving            | Peiyang Song, Caltech |
+| 14:00 - 15:00	| Tutorial: Neuro-Symbolic Theorem Proving with Lean  | Peiyang Song, Caltech |
 
 
 ## Day 3 - 6th Sept 2024
