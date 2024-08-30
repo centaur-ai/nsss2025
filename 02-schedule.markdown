@@ -19,7 +19,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | 9:30 - 10:00	| Tutorial: Taxonomy of Neuro-Symbolic AI         | Henry Kautz, Univ of Virginia |
 | 10:00 - 10:45	| Tutorial: Logical Reasoning I:  Inference       | Alessandra Russo, Imperial College London |
 | 10:45 - 11:00 | break                                           | |
-| 10:00 - 10:45	| Tutorial: Logical Reasoning II:  Learning       | " |
+| 10:00 - 10:45	| Tutorial: Logical Reasoning II:  Learning       | Alessandra Russo, Imperial College London |
 | 10:45 - 11:30	| Tutorial: Abstraction and Reasoning Challenge   | Francois Chollet, Google |
 | TBD         	|                                                 | Guy Van den Broeck, UCLA |
 | 13:00 - 13:30 | break                                           | |
