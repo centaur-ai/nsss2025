@@ -8,7 +8,9 @@ permalink: "schedule.html"
 ---
 
 
-Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selected background knowledge (logical reasoning, neural networks, etc) to help new researchers get into the area, and selected neuro-symbolic approaches and their corresponding software.  Day 3 (Wed, Sep 6, 2024) will feature "birds-of-a-feather" guided group discussions centered around a few selected topics.  Tentative schedule so far (note that all times are in **Eastern Time (ET)**):
+Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selected background knowledge (logical reasoning, neural networks, etc) to help new researchers get into the area, and selected neuro-symbolic approaches and their corresponding software.  Day 3 (Wed, Sep 6, 2024) will feature "birds-of-a-feather" guided group discussions centered around a few selected topics.  Tentative schedule so far: 
+
+(Note that all times are in **Eastern Time (ET)**)
 
 
 ## Day 1 - 4th Sept 2024
