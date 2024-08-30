@@ -32,7 +32,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | Time | Topic | Speaker |
 | :--- | :--- | :--- |
 | 9:00 - 9:30   | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University of London |
-| 9:30 - 10:30  | Tutorial: Neuro-Argumentation                       | Francesca Toni, Imperial College London |
+| 9:30 - 10:30  | Tutorial: Neuro-Argumentative Learning              | Francesca Toni, Imperial College London |
 | 12:30 - 13:00 | break                                               | |
 | 13:00 - 13:30 | Talk: Assured Systems, and Highlights from NeuS '23 | Alvaro Velasquez, DARPA |
 | 13:30 - 13:45 | Startup Talk: Can LLMs Really Understand Conversation? | Kartik Tamaladupala, Symbl.ai |
