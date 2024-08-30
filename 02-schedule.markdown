@@ -8,12 +8,12 @@ permalink: "schedule.html"
 ---
 
 
-Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selected background knowledge (logical reasoning, neural networks, etc) to help new researchers get into the area, and selected neuro-symbolic approaches and their corresponding software.  Day 3 (Wed, Sep 6, 2024) will feature "birds-of-a-feather" guided group discussions centered around a few selected topics.  Tentative schedule so far:
+Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selected background knowledge (logical reasoning, neural networks, etc) to help new researchers get into the area, and selected neuro-symbolic approaches and their corresponding software.  Day 3 (Wed, Sep 6, 2024) will feature "birds-of-a-feather" guided group discussions centered around a few selected topics.  Tentative schedule so far (note that all times are in *Eastern Time (ET)*):
 
 
 ## Day 1 - 4th Sept 2024
 
-| Time | Topic | Speaker |
+| Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
 | 9:00 - 9:30 	| Introduction: Neuro-Symbolic AI                 | Alexander Gray, Centaur AI Institute; Pranava Madhyastha, City University of London; Asim Munawar, IBM Research |
 | 9:30 - 10:00	| Tutorial: Taxonomy of Neuro-Symbolic AI         | Henry Kautz, Univ of Virginia |
@@ -29,7 +29,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 
 ## Day 2 - 5th Sept 2024
 
-| Time | Topic | Speaker |
+| Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
 | 9:00 - 9:30   | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University of London |
 | 9:30 - 10:30  | Tutorial: Neuro-Argumentative Learning              | Francesca Toni, Imperial College London |
@@ -42,7 +42,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 
 ## Day 3 - 6th Sept 2024
 
-| Time | Topic | Speaker |
+| Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
 | 9:00 - 10:00  | Tutorial: Fact-checking                       | Andreas Vlachos, Cambridge |
 | 10:00 - 11:30 | Birds-of-a-Feather Open Discussion:  New Projects/Fund-raising Teaming around Semantic Parsing, Fact-checking, Argumentation, et al. | Discussion Lead: Alexander Gray, Centaur AI Institute |
