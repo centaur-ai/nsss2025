@@ -23,7 +23,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | 10:45 - 11:30	| Tutorial: Abstraction and Reasoning Challenge   | Francois Chollet, Google |
 | TBD         	|                                                 | Guy Van den Broeck, UCLA |
 | 13:00 - 13:30 | break                                           | |
-| 14:00 - 14:30	| Talk: Symbol Processing in Transformer Networks | Paul Smolensky, Microsoft Research and John Hopkins University |
+| 13:30 - 14:30	| Tutorial: Tensor Product Representations        | Paul Smolensky, Microsoft Research and John Hopkins University |
 | 14:30 - 15:00 | Talk: LLMs and Causality                        | Judea Pearl, UCLA |
 
 
