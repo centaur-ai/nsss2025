@@ -31,9 +31,12 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 
 | Time | Topic | Speaker |
 | :--- | :--- | :--- |
-|               | Tutorial: Argumentation                             | Francesca Toni, Imperial College London |
-|               | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University
+| TBD           | Tutorial: Argumentation                             | Francesca Toni, Imperial College London |
+| TBD           | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University of London |
+| 12:30 - 13:00 | break                                               | |
 | 13:00 - 13:30 | Talk: Assured Systems, and Highlights from NeuS '23 | Alvaro Velasquez, DARPA |
+| 13:30 - 13:45 | Startup Talk: TBD                                   | Kartik Tamaladupala, Symbl.ai |
+| 13:45 - 14:00 | Startup Talk: TBD                                   | Nima Keivan, Durable AI |
 | 14:00 - 15:00	| Tutorial: Neuro-Symbolic Theorem Proving with Lean  | Peiyang Song, Caltech |
 
 
