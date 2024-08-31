@@ -22,7 +22,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | 10:00 - 10:45	| Tutorial: Logical Reasoning I:  Inference       | Alessandra Russo, Imperial College London |
 | 10:45 - 11:00 | break                                           | |
 | 11:00 - 11:45	| Tutorial: Logical Reasoning II:  Learning       | Alessandra Russo, Imperial College London |
-| TBD         	|                                                 | Guy Van den Broeck, UCLA |
+| 11:45 - 12:15	|                                                 | |
 | 12:15 - 13:00	| Tutorial: Abstraction and Reasoning Challenge   | Francois Chollet, Google |
 | 13:00 - 13:30 | break                                           | |
 | 13:30 - 14:30	| Tutorial: Tensor Product Representations        | Paul Smolensky, Microsoft Research and John Hopkins University |
@@ -35,6 +35,8 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | :--- | :--- | :--- |
 | 9:00 - 9:30   | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University of London |
 | 9:30 - 10:30  | Tutorial: Neuro-Argumentative Learning              | Francesca Toni, Imperial College London |
+| 10:30 - 11:30 |                                                     | |
+| 11:30 - 12:30	| Tutorial:  Constraining Neural Networks with Logic  | Guy Van den Broeck, UCLA |
 | 12:30 - 13:00 | break                                               | |
 | 13:00 - 13:30 | Talk: Assured Systems, and Highlights from NeuS '23 | Alvaro Velasquez, DARPA |
 | 13:30 - 13:45 | Startup Talk: Can LLMs Really Understand Conversation? | Kartik Tamaladupala, Symbl.ai |
