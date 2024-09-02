@@ -33,7 +33,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 
 | Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
-| 9:00 - 9:30   | Tutorial: Reasoning by Neural Networks              | Artur d'Avila Garcez, City University of London |
+| 9:00 - 9:30   | Tutorial: Directions in Neuro-Symbolic Reasoning    | Artur d'Avila Garcez, City University of London |
 | 9:30 - 10:30  | Tutorial: Neuro-Argumentative Learning              | Francesca Toni, Imperial College London |
 | 10:30 - 11:30 |                                                     | |
 | 11:30 - 12:30	| Tutorial:  Constraining Neural Networks with Logic  | Guy Van den Broeck, UCLA |
