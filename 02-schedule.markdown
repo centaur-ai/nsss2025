@@ -18,14 +18,14 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
 | 9:00 - 9:30 	| Introduction: Neuro-Symbolic AI                 | Alexander Gray, Centaur AI Institute; Pranava Madhyastha, City University of London; Asim Munawar, IBM Research |
-| 9:30 - 10:00	| Tutorial: Taxonomy of Neuro-Symbolic AI         | Henry Kautz, Univ of Virginia |
+| 9:30 - 10:00	| Tutorial: Taxonomy of Neuro-Symbolic AI         | Henry Kautz, University of Virginia |
 | 10:00 - 10:45	| Tutorial: Logical Reasoning I:  Inference       | Alessandra Russo, Imperial College London |
 | 10:45 - 11:00 | break                                           | |
 | 11:00 - 11:45	| Tutorial: Logical Reasoning II:  Learning       | Alessandra Russo, Imperial College London |
-| 11:45 - 12:15	| Talk: LLM-Modulo Frameworks as Compound AI Architectures for Robust Planning (and Reasoning) | Subbarao Kambhampati, Arizona State Univ|
+| 11:45 - 12:15	| Talk: LLM-Modulo Frameworks as Compound AI Architectures for Robust Planning (and Reasoning) | Subbarao Kambhampati, Arizona State University|
 | 12:15 - 13:00	| Tutorial: Abstraction and Reasoning Challenge   | Francois Chollet, Google |
 | 13:00 - 13:30 | break                                           | |
-| 13:30 - 14:30	| Tutorial: Tensor Product Representations        | Paul Smolensky, Microsoft Research and John Hopkins Univ |
+| 13:30 - 14:30	| Tutorial: Tensor Product Representations        | Paul Smolensky, Microsoft Research and John Hopkins University |
 | 14:30 - 15:00 | Talk: LLMs and Causality                        | Judea Pearl, UCLA |
 
 
@@ -48,7 +48,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 
 | Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
-| 9:00 - 10:00  | Tutorial: Fact-checking                       | Andreas Vlachos, Cambridge |
+| 9:00 - 10:00  | Tutorial: Fact-checking                       | Andreas Vlachos, Cambridge University |
 | 10:00 - 11:30 | Birds-of-a-Feather Open Discussion:  New Projects/Fund-raising Teaming around Semantic Parsing, Fact-checking, Argumentation, et al. | Discussion Lead: Alexander Gray, Centaur AI Institute |
 : 11:30 - 11:45 | break | |
 | 11:45 - 13:15 | Birds-of-a-Feather Open Discussion:  New Projects/Fund-raising Teaming around Benchmarks, Safety, Decision Making/Planning, et al. | Discussion Lead: Pranava Madhyastha, City University of London |
