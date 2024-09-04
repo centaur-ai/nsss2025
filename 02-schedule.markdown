@@ -51,8 +51,8 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | :--- | :--- | :--- |
 | 9:00 - 10:00  | Tutorial: Fact-checking                       | Andreas Vlachos, Cambridge University |
 | 10:00 - 11:30 | Birds-of-a-Feather Open Discussion:  New Projects/Fund-raising Teaming around Semantic Parsing, Fact-checking, Argumentation, et al. | Discussion Lead: Alexander Gray, Centaur AI Institute |
-: 11:30 - 11:45 | break | |
+| 11:30 - 11:45 | break | |
 | 11:45 - 13:15 | Birds-of-a-Feather Open Discussion:  New Projects/Fund-raising Teaming around Benchmarks, Safety, Decision Making/Planning, et al. | Discussion Lead: Pranava Madhyastha, City University of London |
-: 13:15 - 13:30 | break | |
+| 13:15 - 13:30 | break | |
 | 13:30 - 14:30 | Panel:  Neuro-Symbolic AI as a Path to AI Safety and Regulation | |
 | 14:30 - 14:45 | Wrap-up: Next Steps for Neuro-Symbolic Participation | Organizers |
