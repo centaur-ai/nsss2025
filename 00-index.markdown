@@ -30,4 +30,4 @@ Our last Neuro-Symbolic Summer School event (2023), attracted 3500+ registrants 
 - [Summer 2022: 6000+ registrations (1st educational event)](http://ibm.biz/nsss2022)
 - [Winter 2022:  1500+ registrations (1st research event)](http://ibm.biz/ns-wkshp)
 
-While initially organized by IBM Research, these activities are now general research community events under the auspices of the new non-profit [Centaur AI Institute](https://centaurinstitute.org), organized in collaboration with leaders of the NeSy annual meeting, owing to the explosion of interest in this emerging topic we have observed.  
+These activities are now general research community events under the auspices of the new non-profit [Centaur AI Institute](https://centaurinstitute.org), organized in collaboration with leaders of the NeSy annual meeting, owing to the explosion of interest in this emerging topic we have observed.  
