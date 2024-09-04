@@ -17,7 +17,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 
 | Time (ET) | Topic | Speaker |
 | :--- | :--- | :--- |
-| 9:00 - 9:30 	| Introduction: Neuro-Symbolic AI                 | Alexander Gray, Centaur AI Institute; Pranava Madhyastha, City University of London; Asim Munawar, IBM Research |
+| 9:00 - 9:30 	| Introduction: Neuro-Symbolic AI                 | Alexander Gray, Centaur AI Institute; Pranava Madhyastha, City University of London |
 | 9:30 - 10:00	| Tutorial: Taxonomy of Neuro-Symbolic AI         | Henry Kautz, University of Virginia |
 | 10:00 - 10:45	| Tutorial: Logical Reasoning I:  Inference       | Alessandra Russo, Imperial College London |
 | 10:45 - 11:00 | break                                           | |
