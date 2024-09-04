@@ -14,7 +14,7 @@ permalink: "execcommittee.html"
 [Adjunct Professor, Purdue University](https://www.linkedin.com/in/alexander-gray-b554b64)
 
 
-### Program Chairs
+### Program Chair
 ![Pranava](https://pmadhyastha.github.io/images/pranava.jpg)
 
 **Pranava Madhyastha** 
