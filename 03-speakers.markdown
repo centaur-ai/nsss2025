@@ -9,18 +9,23 @@ permalink: "speakers.html"
 
 
 Confirmed speakers/topics this year include:
-- Judea Pearl, UCLA (Turing Award winner)
-- Andreas Vlachos, Cambridge
-- Francesca Toni, Imperial College London
-- Francois Chollet, Google
-- Paul Smolensky, Microsoft Research
-- Alvaro Velasquez, DARPA
-- Alessandra Russo, Imperial College London
-- Guy Van den Broeck, UCLA
-- Peiyang Song, Caltech
-- Crash-course tutorials from top experts on logic, neural networks, knowledge graphs, and AlphaProof-style neural-guided theorem proving
-- Emerging industry neuro-symbolic AI tools from the next generation of AI startups
-- Interactive discussions that everyone can join, where we will be planning new projects
 
-...with much more to be announced.
- 
+- Alexander Gray - Centaur AI Institute
+- Pranava Madhyastha - City University of London
+- Henry Kautz - University of Virginia
+- Alessandra Russo - Imperial College London
+- Subbarao Kambhampati - Arizona State University
+- Francois Chollet - Google
+- Paul Smolensky - Microsoft Research and John Hopkins University
+- Judea Pearl - UCLA
+- Artur d'Avila Garcez - City University of London
+- Francesca Toni - Imperial College London
+- Nils Jansen - Ruhr-University Bochum and Radboud University
+- Loizos Michael - Open University of Cyprus and CYENS Center of Excellence
+- Guy Van den Broeck - UCLA
+- Alvaro Velasquez - DARPA
+- Kartik Tamaladupala - Symbl.ai
+- Fernando Nobre - Durable AI
+- Ben Taylor - Rainbird AI
+- Peiyang Song - Caltech
+- Andreas Vlachos - Cambridge University
