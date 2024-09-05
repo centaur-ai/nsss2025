@@ -40,7 +40,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | 11:30 - 12:30	| Tutorial:  Probabilistic Circuits for Neurosymbolic Reasoning for Large Language Models  | Guy Van den Broeck, UCLA |
 | 12:30 - 13:00 | break                                               | |
 | 13:00 - 13:30 | Talk: Assured Systems, and Highlights from NeuS '23 | Alvaro Velasquez, DARPA |
-| 13:30 - 13:40 | Startup Talk: Can LLMs Really Understand Conversation? | Kartik Tamaladupala, Symbl.ai |
+| 13:30 - 13:40 | Startup Talk: Can LLMs Really Understand Conversation? | Kartik Tamaladupula, Symbl.ai |
 | 13:40 - 14:50 | Startup Talk: Building Durable Software with Words  | Fernando Nobre, Durable AI |
 | 13:50 - 14:00 | Startup Talk: Building trustworthy decision intelligence solutions with NeuroSymbolic AI | Ben Taylor, Rainbird AI |
 | 14:00 - 15:00	| Tutorial: Neuro-Symbolic Theorem Proving with Lean  | Peiyang Song, Caltech |
