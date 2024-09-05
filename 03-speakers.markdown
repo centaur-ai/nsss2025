@@ -24,7 +24,7 @@ Confirmed speakers/topics this year include:
 - [Loizos Michael](https://cyens.org.cy/personnel/loizos-michael/) - Open University of Cyprus and CYENS Center of Excellence
 - [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - UCLA
 - [Alvaro Velasquez](https://www.darpa.mil/staff/dr-alvaro-velasquez) - DARPA
-- [Kartik Tamaladupala](http://www.ktalamad.com/) - Symbl.ai
+- [Kartik Tamaladupula](http://www.ktalamad.com/) - Symbl.ai
 - [Fernando Nobre](https://www.linkedin.com/in/fernobre/) - Durable AI
 - [Ben Taylor](https://www.linkedin.com/in/benjamta/) - Rainbird AI
 - [Peiyang Song](https://peiyang-song.github.io/) - Caltech
