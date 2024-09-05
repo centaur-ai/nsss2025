@@ -26,7 +26,7 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | 12:15 - 13:00	| Tutorial: Abstraction and Reasoning Challenge   | Francois Chollet, Google |
 | 13:00 - 13:30 | break                                           | |
 | 13:30 - 14:30	| Tutorial: Tensor Product Representations        | Paul Smolensky, Microsoft Research and John Hopkins University |
-| 14:30 - 15:00 | Talk: LLMs and Causality                        | Judea Pearl, UCLA |
+
 
 
 ## Day 2 - 5th Sept 2024
@@ -55,5 +55,6 @@ Days 1 and 2 (Wed, Sep 4, and Thu, Sep 5, 2024) will focus on tutorials on selec
 | 11:30 - 11:45 | break | |
 | 11:45 - 13:15 | Birds-of-a-Feather Open Discussion:  New Projects/Fund-raising Teaming around Benchmarks, Safety, Decision Making/Planning, et al. | Discussion Lead: Pranava Madhyastha, City University of London |
 | 13:15 - 13:30 | break | |
-| 13:30 - 14:30 | Panel:  Neuro-Symbolic AI as a Path to AI Safety and Regulation | |
-| 14:30 - 14:45 | Wrap-up: Next Steps for Neuro-Symbolic Participation | Organizers |
+| 13:30 - 14:30 | Panel:  Neuro-Symbolic AI as a Path to AI Safety and Regulation | Richard Mallah, Center for AI Risk Management & Alignment and Future of Life Institute; Steve Omohundro, Beneficial AI Research;  Benjamin Grosof, DARPA |
+| 14:30 - 15:00 | Talk: LLMs and Causality                        | Judea Pearl, UCLA |
+| 15:00 - 15:15 | Wrap-up: Next Steps for Neuro-Symbolic Participation | Organizers |
