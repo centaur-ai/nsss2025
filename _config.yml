@@ -23,7 +23,7 @@ title: Neuro-Symbolic AI Summer School 2024
 description: >- # this means to ignore newlines until "baseurl:"
   Reach out to the organizers for any information on the workshop.
 baseurl: "/nsss2024" # the subpath of your site, e.g. /blog
-url: "http://neurosymbolic.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://centaur-ai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: asimunawar
 #linkedin_username: asimmunawar
 #github_username:  asimmunawar
