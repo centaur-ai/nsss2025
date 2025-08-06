@@ -10,23 +10,39 @@ title: Home
 permalink: "index.html"
 ---
 
-Please join us for the 4rd Neuro-Symbolic AI Summer School (NSSS), a free, fully-remote meeting to be held **Aug 14-15, 2025** - where you can learn how to be part of this exciting area at the most forward-looking cutting edge of AI.
+[RSVP at Luma](https://lu.ma/pqzv80yd?utm_source=github_pages)
 
-NSSS ‘25 is the latest in a series of events which alternate between research workshops and summer schools that aim to accelerate progress in the fast-emerging area of neuro-symbolic AI by teaching graduate students, data scientists, and researchers principles from the side of AI they may be less familiar with, as well as presenting a curation of emerging research ideas at the intersection.
+Tired of the same old AI ideas and looking for something new? Or wondering if there are any deep alternatives to models that hallucinate, elude human debuggability, and have only limited ability to reason, plan, or do math?
 
-The focus of the event is on techniques, in particular those which augment neural network/ML ideas with symbolic AI ideas, to address at least three main open problems of AI: 1) human interpretability/controllability, 2) learning with less data/computation (e.g. via knowledge), and 3) out-of-distribution generalization (e.g. via reasoning).
+​📢 Please join us for the 4rd Neuro-Symbolic AI Summer School (NSSS), a free, fully-remote meeting to be held Aug 14-15, 2025 - where you can learn how to be part of this exciting area at the most forward-looking cutting edge of AI. This year's theme is "AI for Precise Computation: Mathematics, Reasoning, and Planning".
 
-........................................
+🎤 Speakers:
+Alexander Gray, Centaur AI Institute
+Ankit Anand, DeepMind
+Artur Garcez, City Univ London  
+Arvind Narayanan, Princeton  
+Bin Yu, UC Berkeley  
+Bowen Li, Carnegie Mellon    
+Changlong Wu, Purdue  
+Felix Petersen, Stanford  
+Kristian Kersting, TU Darmstadt
+Leilani Gilpin, UC Santa Cruz  
+Mateo Zarlenga and Pietro Barbiero, Cambridge  
+Olga Vileskaia and Kevin O'Connor, Centaur AI Institute  
+Parikshit Ram, IBM Research  
+Parisa Kordjamshidi, Michigan State  
+Peihao Wang, UT Austin
+Pranava Madhyastha, City Univ London
+Soroush Saghafian, Harvard  
+Sridhar Mahadevan, Adobe Research and UMass Amherst  
+Yong Lin, Princeton 
 
-Background on previous events:
+​🌐 NSSS ‘25 is the latest in a series of research and educational events that aim to accelerate progress in the fast-emerging area of neuro-symbolic AI by teaching graduate students, data scientists, and researchers principles from the side of AI they may be less familiar with, as well as presenting a curation of emerging research ideas at the intersection.
 
-Our last Neuro-Symbolic Summer School event (2023), attracted 3500+ registrants and featured top researchers including two Turing Award winners, Les Valiant and Yoshua Bengio.
+​🎯 The focus of the event is on techniques, in particular those which augment neural network/ML ideas with symbolic AI ideas, to address at least three main open problems of AI: 1) human interpretability/controllability, 2) learning with less data/computation (e.g. via knowledge), and 3) out-of-distribution generalization (e.g. via reasoning).
 
-- [Summer 2024 (3rd education event)](https://neurosymbolic.github.io/nsss2024/)
-- [Winter 2024: AAAI 2024 Workshop on Neuro-Symbolic Learning and Reasoning in the era of Large Language Models (NucLeaR) (3rd research event)](https://nuclear-workshop.github.io/)
-- [Summer 2023: 3500+ registrations (2nd education event)](https://neurosymbolic.github.io/nsss2023)
-- [Winter 2023: 5000+ registrations (2nd research event)](https://ibm.biz/nsworkshop2023)
-- [Summer 2022: 6000+ registrations (1st educational event)](http://ibm.biz/nsss2022)
-- [Winter 2022: 1500+ registrations (1st research event)](http://ibm.biz/ns-wkshp)
+​………………………………….
 
-These activities are now general research community events under the auspices of the new non-profit [Centaur AI Institute](https://centaurinstitute.org), organized in collaboration with leaders of the NeSy annual meeting, owing to the explosion of interest in this emerging topic we have observed.  
+​📜 Background on previous events:
+
+​Our previous Neuro-Symbolic AI Summer School events have attracted thousands of registrants and featured top researchers including Turing Award winners and National Academies members.
